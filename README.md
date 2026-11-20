@@ -1,6 +1,6 @@
 ![Erina Yamashita — Web開発ポートフォリオ](assets/profile-banner.svg)
 
-札幌を拠点に、Ms.EngineerでWeb開発を学んでいます。スタジオ運営や法人営業の経験を生かし、チームやお客様が日々の業務で使いやすいツールを作っています。
+札幌を拠点に、Ms.EngineerでWeb開発を学んでいます。
 
 ## 制作実績
 
