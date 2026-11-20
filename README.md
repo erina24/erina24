@@ -6,7 +6,7 @@
 
 ### きまログ
 
-議事録から決定事項を抽出し、チームの質問に出典付きで答えるAIアシスタントです。4人チームで、PostgreSQLのデータベース設計と、議事録の確定・決定事項の取得API、検索用データの登録、Mastraの会話メモリとユーザー・チーム情報の連携を担当しました。
+議事録から決定事項を抽出し、チームの質問に出典付きで答えるAIアシスタントです。4人チームで、PostgreSQLのデータベース設計と、議事録の確定・決定事項の取得API、検索用データの登録、Mastraの会話メモリとユーザー・チーム情報の連携、Mac・Windows向けの環境構築手順の整備を担当しました。
 
 [リポジトリ](https://github.com/erina24/kimarogu-public) · [DB設計](https://github.com/erina24/kimarogu-public/blob/main/docs/database.md) · [API仕様](https://github.com/erina24/kimarogu-public/blob/main/docs/api.md)
 
@@ -18,7 +18,7 @@
 
 ### KOKYU Pilates CMS
 
-個人制作です。スタジオスタッフが、お知らせ・インストラクター紹介・体験レッスンの料金をmicroCMSから更新できるWebサイトのデモです。スタジオ運営の経験をもとに、更新する項目を設計し、スタッフ向けに公開手順をまとめました。
+個人制作です。スタジオスタッフが、お知らせ・インストラクター紹介・体験レッスンの料金をmicroCMSから更新できるWebサイトのデモです。microCMS公式テンプレートをベースに、スタジオ運営の経験を活かして体験プランの項目を設計し、料金ページとトップページの料金表示を実装しました。スタッフ向けに更新・公開手順もまとめました。
 
 [公開デモ](https://pilates-studio-site-two.vercel.app/) · [体験レッスンの料金ページ](https://pilates-studio-site-two.vercel.app/plans)
 
