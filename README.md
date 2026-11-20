@@ -1,27 +1,27 @@
-![Erina Yamashita — Web development portfolio](assets/profile-banner.svg)
+![Erina Yamashita — Web開発ポートフォリオ](assets/profile-banner.svg)
 
-I’m studying web development at Ms.Engineer in Sapporo, Japan. My background in studio operations and B2B sales shapes how I build tools for teams and customers.
+札幌を拠点に、Ms.EngineerでWeb開発を学んでいます。スタジオ運営や法人営業の経験を生かし、チームやお客様が日々の業務で使いやすいツールを作っています。
 
-## Selected projects
+## 制作実績
 
-### Kimarogu (きまログ)
+### きまログ
 
-An AI assistant that turns meeting notes into decisions and answers team questions with sources. In a four-person team, I designed the PostgreSQL schema and built APIs for reviewing notes and registering them for retrieval.
+議事録から決定事項を抽出し、チームの質問に出典付きで答えるAIアシスタントです。4人チームで、PostgreSQLのデータベース設計と、議事録の確認・検索用データの登録APIを担当しました。
 
-[Repository](https://github.com/erina24/kimarogu-public)
+[リポジトリ](https://github.com/erina24/kimarogu-public)
 
-### Sapporo Shelter Map
+### 札幌防災マップ
 
-A Web GIS prototype for exploring four designated shelters from Sapporo’s open data. I synchronized name and ward filters across the map and results list.
+札幌市のオープンデータを使い、指定避難所4か所を地図で確認できるWeb GISの試作です。施設名や区で絞り込んだ結果が、地図のマーカーと一覧の両方に反映されるように実装しました。
 
-[Live demo](https://sapporo-shelter-map.vercel.app) · [Repository](https://github.com/erina24/sapporo-shelter-map)
+[公開デモ](https://sapporo-shelter-map.vercel.app) · [リポジトリ](https://github.com/erina24/sapporo-shelter-map)
 
 ### KOKYU Pilates CMS
 
-A studio website demo where staff can publish news, instructor profiles, and trial pricing in microCMS. Drawing on studio operations experience, I designed the content model and documented the publishing workflow.
+スタジオスタッフが、お知らせ・インストラクター紹介・体験レッスンの料金をmicroCMSから更新できるWebサイトのデモです。スタジオ運営の経験をもとに、更新する項目を設計し、スタッフ向けに公開手順をまとめました。
 
-[Live demo](https://pilates-studio-site-two.vercel.app/)
+[公開デモ](https://pilates-studio-site-two.vercel.app/)
 
 ---
 
-**Core stack** · TypeScript · React · Next.js · PostgreSQL
+**主な使用技術** · TypeScript · React · Next.js · PostgreSQL
